@@ -14,10 +14,10 @@ This project is a front-end only clone of the Spotify homepage. It focuses on re
 
 ## 📂 Project Structure
 
-/spotify-clone
-├── index.html # Main HTML file
-├── style.css # CSS file for styling
-└── assets/ # Folder for images, fonts, etc.
+/spotify-clone:
+index.html # Main HTML file
+style.css # CSS file for styling
+assets/ # Folder for images, fonts, etc.
 
 ## 🚀 Getting Started
 
