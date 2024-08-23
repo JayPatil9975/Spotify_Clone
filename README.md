@@ -25,7 +25,7 @@ To view the Spotify clone locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/JayPatil9975/Spotify_Clone.git
 
 2. **Navigate to the Project Directory:**
 
